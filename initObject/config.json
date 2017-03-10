@@ -1,0 +1,16 @@
+{
+    "rootName": "myRannie",
+    "data": [{
+        "name": "index.html",
+        "type": "file"
+    }, {
+        "name": "js",
+        "type": "dir"
+    }, {
+        "name": "css",
+        "type": "dir"
+    }, {
+        "name": "yrl",
+        "type": "dir"
+    }]
+}
